@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  color: slateblue;
+  background-color: rgb(207, 180, 233) !important;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+code {
+  font-family: Arial, Helvetica, sans-serif, 'Courier New',
+    monospace;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+h1 {
+  color: rgb(154, 39, 207);
+  text-align: center;
+}
+
+
+h2,
+h3,
+h4,
+h5 {
+  color: rgb(165, 21, 175);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+button {
+  font-family: fantasy;
+}
+
+.book-div {
+  background: rgb(109, 26, 187);
+  border-width: 4;
+  border-radius: 20px;
+}
+
+div {
+  border-width: 4;
+  border-radius: 20px;
+}
+
+.new-info {
+  background: rgb(53, 14, 61);
+}
+
+.img-book {
+  background-color: rgb(172, 82, 199);
+  background-image: url("https://images.pexels.com/photos/616401/pexels-photo-616401.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500.png");
+}
+
+.new-book {
+  background-color: rgb(136, 89, 199);
+}
+
+.single-book {
+  border-width: 4;
+  border-radius: 20px;
+  background: rgb(134, 106, 212);
+}
+
+label {
+  color: rgb(20, 19, 26);
+}
+
+.btn-my-color {
+  color: white;
+  background-color: rgb(191, 126, 197);
+}
+
+.tab {
+  margin-left: 2.5em
+}
+
+.round-corner {
+  border-width: 4;
+  border-radius: 20px;
+}
